@@ -9002,7 +9002,7 @@ function Pd() {
             href: "https://vitejs.dev",
             target: "_blank",
             children: le.exports.jsx("img", {
-              src: "./vite-4a748afd.svg",
+              src: "./assets/vite-4a748afd.svg",
               className: "logo",
               alt: "Vite logo",
             }),
