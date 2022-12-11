@@ -3,18 +3,18 @@
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "../public/eqty_favicon.ico",
+      "src": "../eqty_favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "../public/eqty_red.png",
+      "src": "../eqty_red.png",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "any maskable"
     },
     {
-      "src": "../public/eqty_red.png",
+      "src": "../eqty_red.png",
       "type": "image/png",
       "sizes": "512x512"
     }
